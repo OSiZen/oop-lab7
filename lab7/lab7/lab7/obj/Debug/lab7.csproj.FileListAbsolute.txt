@@ -1,0 +1,7 @@
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab7\lab7\lab7\bin\Debug\lab7.exe
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab7\lab7\lab7\bin\Debug\lab7.pdb
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab7\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab7\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab7\lab7\lab7\obj\Debug\lab7.exe
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab7\lab7\lab7\obj\Debug\lab7.pdb
